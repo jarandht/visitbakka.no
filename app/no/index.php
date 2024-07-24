@@ -17,10 +17,10 @@
         </div></a>
     </div>
     <div class="payment_methods">
-        <div>
+        <a target="_blank" href="https://qr.vipps.no/28/2/05/031/_oMy1ekYM"><div>
             <img src="/img/vips.jfif" alt="">
-            <h3>94141434</h3>
-        </div>
+            <h3>betal no</h3>
+        </div></a>
     </div>
 </section>
 
@@ -59,7 +59,7 @@
         Kontakt Svein Tufte, 90526324 eller Nærøyfjorden Camping for skyss eller leige av båt om du ynskjer å gå denne turen på ca 5km langs fjorden.
         </p>
     </div>
-    <div class="activity">
+    <a target="_blank" href="https://verdsarvturen.com/"><div class="activity">
         <img src="/img/versavturen.jpg" alt="">
         <h3>Verdsarvturen</h3>
         <p>
@@ -67,7 +67,7 @@
         <br><br>
         Turen pleier å gå fyrste helga i august. 
         </p>
-    </div>
+    </div></a>
 </section>
 
 <?php require $_SERVER['DOCUMENT_ROOT'] . '/blocks/no_footer.php'; ?>

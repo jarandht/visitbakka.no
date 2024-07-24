@@ -18,10 +18,10 @@
         </div></a>
     </div>
     <div class="payment_methods">
-        <div>
+        <a target="_blank" href="https://qr.vipps.no/28/2/05/031/_oMy1ekYM"><div>
             <img src="/img/vips.jfif" alt="">
-            <h3>94141434</h3>
-        </div>
+            <h3>buy now</h3>
+        </div></a>
     </div>
 </section>
 
@@ -64,7 +64,7 @@
         Contact Svein Tufte, +4790526324 or Nærøyfjorden Camping for a ride or hire a boat if you wish to do this trip of approx. 5km along the fjord.
         </p>
     </div>
-    <div class="activity">
+    <a target="_blank" href="https://verdsarvturen.com/"><div class="activity">
         <img src="/img/versavturen.jpg" alt="">
         <h3>Verdsarvturen</h3>
         <p>
@@ -72,7 +72,7 @@
         <br><br>
         The trip usually goes on the first weekend in August.
         </p>
-    </div>
+    </div></a>
 </section>
 
 <?php require $_SERVER['DOCUMENT_ROOT'] . '/blocks/en_footer.php'; ?>

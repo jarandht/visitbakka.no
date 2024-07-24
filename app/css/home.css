@@ -140,7 +140,7 @@ a .activity h3::after{
     background-size: cover;
     background-position: center;
 }
-.activity:hover h3{
+a .activity:hover h3{
     text-decoration: underline;
 }
 .activity p{
