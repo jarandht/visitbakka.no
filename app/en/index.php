@@ -12,13 +12,13 @@
         <img src="/img/parking.png" alt="">
     </div>
     <div class="payment_methods">
-        <a target="_blank" href="https://www.paypal.com/webapps/hermes?token=21C210579Y7653840&useraction=commit&wpsFlowRedirectToXorouterSkipHermesStartTime=1721690481391&flowType=WPS&mfid=1721690481113_027092a8a8455"><div>
+        <a target="_blank" href="https://www.paypal.com/ncp/payment/WFPG9LWL5SPH4"><div>
             <img src="/img/paypal_logo.png" alt="">
             <h3>buy now</h3>
         </div></a>
     </div>
     <div class="payment_methods">
-        <a target="_blank" href="https://qr.vipps.no/28/2/05/031/_oMy1ekYM"><div>
+        <a target="_blank" href="./vips"><div>
             <img src="/img/vips.jfif" alt="">
             <h3>buy now</h3>
         </div></a>
